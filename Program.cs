@@ -9,6 +9,7 @@ class Program{
     Console.WriteLine("Staging Area");
     Console.WriteLine("GitTest5");
     System.Console.WriteLine("hej git test 6");
+    int x = 1;
     }
 
 }
