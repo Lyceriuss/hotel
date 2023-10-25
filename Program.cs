@@ -6,6 +6,7 @@ class Program{
     Console.WriteLine("GitTest2");
     Console.WriteLine("GitTest3");
     Console.WriteLine("GitTest4 + tog bort en rad");
+    Console.WriteLine("Staging Area");
     }
 
 }
