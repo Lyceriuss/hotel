@@ -10,6 +10,7 @@ class Program{
     Console.WriteLine("GitTest5");
     System.Console.WriteLine("hej git test 6");
     int x = 1;
+    Console.WriteLine("GitTest6");
     }
 
 }
